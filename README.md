@@ -1,12 +1,6 @@
-# knausj_talon
+# nyghtly-derek/talon-config
 
-Talon configs for Mac, Windows, and Linux. Very much in progress. This is also intended to work with both Dragon Naturally Speaking and wav2letter.
-
-Notes:
-
-- commands are subject to change. We do our best to minimize changes, but we are moving to an [object][verb] standard slowly but surely.
-- @knausj85 makes extensive use of Talon's eye tracking features, so the grammar for certain programs may be much smaller than you may require.
-- The repository was mostly developed with Dragon, so commands are mostly still optimized for that speech engine.
+Talon configs for Mac, Windows, and Linux.
 
 ## Linux & Mac setup
 
